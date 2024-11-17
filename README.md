@@ -1,6 +1,6 @@
 # Polarization resolved measurement
 
-A python-based control rotator from thorlab's Tcube and PicoHarp300 to do the polarization resovled measurement.
+A python-based interface control rotator from thorlab's Tcube and PicoHarp300 to do the polarization resovled measurement. This program utilize PyQt6 to create graphical interfaces for connect device, monitor count rate, polarization resolved measurement.
 
 
 ## Connection tab
