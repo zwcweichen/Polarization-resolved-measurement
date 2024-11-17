@@ -1,3 +1,8 @@
+# Polarization resolved measurement
+---
+A python-based control rotator from thorlab's Tcube and PicoHarp300 to do the polarization resovled measurement.
+
+
 ## Connection tab
 ![圖片](https://github.com/user-attachments/assets/c8315e12-9795-44a6-9636-bbd58964c979)
 ## Monitor tab
